@@ -1,0 +1,27 @@
+name: Jongyeol
+main: com.Jongyeol.Main
+version: 0.0.1
+commands:
+  규칙:
+    description: 규칙을 확인합니다.
+    aliases: rule
+    usage: /규칙
+  도움말:
+    description: 도움말을 확인합니다.
+    usage: /도움말
+  기본템:
+    description: 기본템을 받습니다.
+    usage: /기본템
+  채팅청소:
+    description: 채팅을 청소합니다.
+    usage: "§a사용법 : /채팅청소 <개인/전체>"
+  broadcast:
+    description: 공지를 띄웁니다.
+    aliases: bc
+    usage: "§a사용법 : /broadcast <text>"
+  update:
+    description: 업데이트 모드를 활성화 합니다.
+    usage: "§a사용법 : /update <true/false>"
+  워프:
+    description: 워프합니다.
+    usage: "§a사용법 : /워프 <text>"

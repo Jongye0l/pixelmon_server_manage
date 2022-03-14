@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Jongyeol:jar">
+    <output-path>$PROJECT_DIR$/server/plugins</output-path>
+    <root id="archive" name="Jongyeol.jar">
+      <element id="module-output" name="Pixelmon_Server_manage" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/resource" />
+    </root>
+  </artifact>
+</component>
